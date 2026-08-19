@@ -20,4 +20,7 @@ exercises and build increasingly automated, reproducible environments.
 
 
 ## Labs
-01 - Azure Status & Health Monitor
+
+### 01 - Azure Status & Health Monitor
+
+### 02 - Recreate a disposable Azure Spot VM with Azure CLI, not Terraform yet.
