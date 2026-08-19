@@ -1,16 +1,23 @@
 # azure-devops-labs
-30 to 60-Day Cloud &amp; DevOps Sprint: Hands-on automation, Infrastructure as Code (IaC), and CI/CD pipelines using Python, Bash, Azure, Terraform, and GitHub Actions.
 
-# Day 1: Azure Status & Health Monitor
+Hands-on Cloud & DevOps labs focused on Azure administration, Linux,
+networking, automation, Infrastructure as Code, and CI/CD.
 
-## Overview
-A lightweight Python automation script that tests outbound connectivity to Azure endpoints, tracks system UTC execution time, and outputs formatted JSON diagnostic logs.
+Technologies used throughout the repository include:
 
-## Concepts Covered
-* Standard Python libraries (`urllib.request`, `json`, `datetime`, `sys`)
-* HTTP status codes & network timeout handling
-* JSON reporting structure for automation pipelines
+- Microsoft Azure
+- Linux
+- Bash
+- Python
+- Azure CLI
+- Bicep
+- Terraform
+- Git
+- GitHub Actions
 
-## How to Run
-```bash
-python3 app.py
+The goal of this repository is to document practical cloud engineering
+exercises and build increasingly automated, reproducible environments.
+
+
+## Labs
+01 - Azure Status & Health Monitor
